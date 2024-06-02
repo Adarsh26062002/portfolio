@@ -8,6 +8,8 @@ import medico from "../../Assets/Projects/medico.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import movix from "../../Assets/Projects/movix.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import luxcartFrontend from "../../Assets/Projects/luxcart-frontend.png"
+import luxcartAdmin from "../../Assets/Projects/luxcart-admin.png"
 
 function Projects() {
   return (
@@ -65,28 +67,27 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={luxcartFrontend}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="Luxcart"
+              description="Implemented a modern and visually appealing user interface for Luxcart using NextJS, focusing on creating a smooth and interactive shopping experience. Leveraging reusable components and state management with Redux, the project ensured efficient routing and a seamless user experience. Integrated MongoDB for robust data handling and employed Node.js and Express.js for the backend, resulting in a full-stack solution that enhances both the frontend and backend performance."
+              ghLink="https://github.com/Adarsh26062002/luxcart-frontend"
+              demoLink="https://luxcart-frontend-exhp.vercel.app/" 
             />
-          </Col> */}
+          </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={luxcartAdmin}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Luxcart Admin Site"
+              description="Developed the Luxcart-Admin project to provide comprehensive management capabilities for the Luxcart e-commerce platform. Utilizing the same tech stack—NextJS, MongoDB, Node.js, Express.js, and Redux—the admin interface allows for efficient product management and detailed sales tracking through intuitive dashboards."
+              ghLink="https://github.com/Adarsh26062002/luxcart-admin"
+              demoLink="https://luxcart-admin-3.vercel.app/"      
             />
-          </Col> */}
+          </Col>
         </Row>
       </Container>
     </Container>
