@@ -51,8 +51,8 @@ function Projects() {
               isBlog={false}
               title="Movix"
               description="Movix is an innovative Single Page Web Application built with React and Redux, offering users a seamless and engaging movie exploration experience.With an intuitive and dynamic user interface, Movix allows users to search, discover, and explore a vast collection of movies from various genres, eras, and languages."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://movix-eta.vercel.app/"
+              demoLink="https://github.com/Adarsh26062002/movix"              
             />
           </Col>
 
