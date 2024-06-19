@@ -2,12 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
 import shop_point from "../../Assets/Projects/shop_point.png";
 import medico from "../../Assets/Projects/medico.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import movix from "../../Assets/Projects/movix.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 import luxcartFrontend from "../../Assets/Projects/luxcart-frontend.png"
 import luxcartAdmin from "../../Assets/Projects/luxcart-admin.png"
 
