@@ -8,30 +8,38 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Adarsh Singh Parihar </span>
-            from <span className="purple"> Satna, India.</span>
-            <br /> A dedicated <span className="purple">Full Stack Developer</span>  with <span className="purple">more than 2</span> years of hands-on experience. I’m passionate about staying updated
-            with industry trends and technologies.
-            <br />
-            I am currently working as 
+            Hi Everyone, I am{" "}
+            <span className="purple">Adarsh Singh Parihar </span>
+            from <span className="purple"> Pune, Maharashtra, India.</span>
+            <br /> A dedicated{" "}
+            <span className="purple">Full Stack Developer</span> with{" "}
+            <span className="purple">2+</span> years of hands-on experience. I'm
+            passionate about staying updated with industry trends and
+            technologies.
+            <br />I am currently working as a
             <span className="purple"> Software Engineer </span>
-             at 
-             <span className="purple"> SiteStitch LLC</span>.
-            <br/>
-            Additionally, I have previously worked as <span className="purple">Full Stack Developer Intern</span> at <span className="purple">Kudosware</span>, <span className="purple">Frontend Developer Intern</span> at <span className="purple">DefynWeb</span>. 
+            at
+            <span className="purple"> Blitzy AI</span>.
+            <br />
+            Previously, I have worked as a{" "}
+            <span className="purple">Software Engineer</span> at{" "}
+            <span className="purple">Autron</span>,{" "}
+            <span className="purple">SiteStitch LLC</span>, and as a{" "}
+            <span className="purple">Frontend Developer</span> at{" "}
+            <span className="purple">DefynWeb</span>.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Competitive Programming
             </li>
             <li className="about-activity">
               <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Problem Solving
             </li>
           </ul>
 

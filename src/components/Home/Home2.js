@@ -19,36 +19,41 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I am a passionate Full Stack Developer with 2+ years of experience
+              in building scalable web applications.
               <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Java, TypeScript and JavaScript. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new&nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js, Apollo GraphQL</b> and
+              <br />I am proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  JavaScript, TypeScript, Python, and C++.{" "}
                 </b>
               </i>
-              &nbsp; like
+              <br />
+              <br />
+              My expertise lies in building&nbsp;
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple">Web Applications and Products </b> using
+                modern technologies like{" "}
+                <b className="purple">React.js, Next.js, Node.js, and Flask.</b>
+              </i>
+              <br />
+              <br />I have experience working with various technologies
+              including
+              <b className="purple"> Redux, MongoDB, PostgreSQL, AWS,</b> and
+              <i>
+                <b className="purple">
+                  {" "}
+                  other modern development tools and frameworks.
+                </b>
+              </i>
+              <br />
+              <br />
+              I'm also passionate about competitive programming and have
+              achieved
+              <i>
+                <b className="purple"> Top 10% on LeetCode</b> with over 800
+                problems solved.
               </i>
             </p>
           </Col>
@@ -77,7 +82,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com"
+                  href="https://leetcode.com/adarsh"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +102,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com"
+                  href="https://codechef.com/adarsh"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
